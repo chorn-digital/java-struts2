@@ -72,7 +72,7 @@ Java-Struts/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Java-Struts.git
+   git clone https://github.com/chorn-hub/java-struts2.git
    cd Java-Struts
    ```
 
